@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Texas Fart'Em</title>
+</head>
+
+<body>
+    <h1>Texas Fart'Em</h1>
+    <style>
+        body {
+            background-color: goldenrod;
+        }
+
+        p {
+            color: rgb(0, 0, 0);
+            font-family: fantasy;
+            font-weight: bold;
+        }
+
+        h1 {
+            color: darkblue;
+            font-family: 'Trebuchet MS'; font-weight: bolder;
+        }
+    </style>
+    <p>Rules
+        <ol>
+            <li>
+                Only high rollers!
+            </li>
+            <li>
+                Only four cards on the table
+            </li>
+            <li>
+                Score the lowest instead of the highest
+            </li>
+            <li>
+                Same coloured cards count as the same suit
+            </li>
+        </ol>
+    </p>
+<p> Special hands!
+<ol>
+    <li> 
+        Weak Flush - A four card flush
+    </li>
+    <li> 
+        Weak Straight - A four card straight
+    </li>
+    <li> 
+        Forgot To Flush - Three red cards and three black cards
+    </li>
+    <li> 
+        Royal Fart - Cards 1, 2, 3, 5, 6, 7 - Three red cards and three black cards
+    </li>
+</ol>
+<img src="https://ih1.redbubble.net/image.490263184.2295/raf,360x360,075,t,fafafa:ca443f4786.u1.jpg">
+</p>
+
+
+
+
+
+
+
+</body>
+
+</html>
