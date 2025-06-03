@@ -10,23 +10,29 @@
 <body>
     <h1>Texas Fart'Em</h1>
     <style>
-        body {
-            background-color: goldenrod;
-        }
-
         p {
-            color: rgb(0, 0, 0);
+            color: rgb(255, 255, 255);
             font-family: fantasy;
             font-weight: bold;
         }
 
         h1 {
-            color: darkblue;
+            color: rgb(255, 255, 255);
             font-family: 'Trebuchet MS'; font-weight: bolder;
         }
     </style>
     <p>Rules
+        <style>
+            p {
+            color: rgb(255, 255, 255);
+        }
+        </style>
         <ol>
+                   <style>
+            li {
+            color: rgb(255, 255, 255);
+        }
+        </style>
             <li>
                 Only high rollers!
             </li>
@@ -42,6 +48,11 @@
         </ol>
     </p>
 <p> Special hands!
+        <style>
+            p {
+            color: rgb(255, 255, 255);
+        }
+        </style>
 <ol>
     <li> 
         Weak Flush - A four card flush
@@ -59,8 +70,12 @@
 <img src="https://ih1.redbubble.net/image.490263184.2295/raf,360x360,075,t,fafafa:ca443f4786.u1.jpg">
 </p>
 
-
-
+ <style>
+        body {
+            background-image: url(https://i.pinimg.com/originals/fb/db/a8/fbdba82afd9cca7c7d140af9cb18fe6e.gif); background-color: rgba(1, 1, 1, 0.795); background-blend-mode:multiply
+            ;
+        }
+    </style>
 
 
 
